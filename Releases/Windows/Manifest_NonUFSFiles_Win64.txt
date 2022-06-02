@@ -1,6 +1,5 @@
 HoppingHome/Binaries/Win64/D3D12/D3D12Core.dll	2022-05-18T03:53:15.250Z
-HoppingHome/Binaries/Win64/D3D12/d3d12SDKLayers.dll	2022-05-18T03:53:15.272Z
-HoppingHome/Binaries/Win64/HoppingHome.exe	2022-05-30T18:00:16.572Z
+HoppingHome/Binaries/Win64/HoppingHome-Win64-Shipping.exe	2022-06-02T00:15:42.123Z
 HoppingHome/Binaries/Win64/OpenImageDenoise.dll	2022-05-18T05:08:03.254Z
 HoppingHome/Binaries/Win64/tbb.dll	2022-05-18T03:51:09.207Z
 HoppingHome/Binaries/Win64/tbb12.dll	2022-05-18T05:07:55.181Z
@@ -9,13 +8,12 @@ Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2022-05-18T03:48:31.683Z
 Engine/Binaries/ThirdParty/NVIDIA/GeForceNOW/Win64/GfnRuntimeSdk.dll	2022-05-18T03:51:20.871Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2022-05-18T03:51:22.122Z
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2022-05-18T03:51:22.939Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll	2022-05-18T03:51:53.986Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll	2022-05-18T03:51:54.017Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll	2022-05-18T03:51:54.030Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll	2022-05-18T03:51:54.084Z
-Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll	2022-05-18T03:51:54.096Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll	2022-05-18T03:51:53.910Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll	2022-05-18T03:51:53.957Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll	2022-05-18T03:51:54.011Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2022-05-18T03:51:54.081Z
+Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2022-05-18T03:51:54.088Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2022-05-18T03:53:15.230Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2022-05-18T03:53:15.231Z
-Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2022-05-18T03:53:15.288Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2022-05-18T03:53:17.844Z
-HoppingHome.exe	2022-05-30T21:57:56.027Z
+HoppingHome.exe	2022-06-02T01:25:26.642Z
